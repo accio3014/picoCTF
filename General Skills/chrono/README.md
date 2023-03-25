@@ -8,7 +8,7 @@
 # [General Skills]
 ## chrono
 <div style="text-align:center;">
-    <img width="60%" src="https://user-images.githubusercontent.com/92027143/227708928-46a0d2be-1f29-4cbc-aff7-24566a1703a9.png" >
+    <img width="100%" src="https://user-images.githubusercontent.com/92027143/227708928-46a0d2be-1f29-4cbc-aff7-24566a1703a9.png" >
 </div>
 </br>
 </br>
