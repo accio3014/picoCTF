@@ -20,7 +20,6 @@ ______________
 ### Solve
 1. After running the instance, connect to the server using ssh.
 (ssh [username]@[server] -p [port])
-</br> 
 
 2. Use the command below to get the flag.
 ```
