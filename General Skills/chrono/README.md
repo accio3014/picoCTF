@@ -1,3 +1,10 @@
+</br> 
+
+- [\[General Skills\]](#general-skills)
+  - [chrono](#chrono)
+    - [Solve](#solve)
+    - [FLAG](#flag)
+
 # [General Skills]
 ## chrono
 <div style="text-align:center;">
@@ -12,9 +19,9 @@ ______________
 
 ### Solve
 1. After running the instance, connect to the server using ssh.
-</br> 
 (ssh [username]@[server] -p [port])
-   
+</br> 
+
 2. Use the command below to get the flag.
 ```
  cat /challenge/metadata.json | grep "picoCTF*"
